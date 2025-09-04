@@ -5,6 +5,6 @@ portfolio/
     └── avatar.jpeg
 
 # tell git to include it (if needed)
-git add assets/avatar.jpg
+git add Assets/avatar.jpeg
 git commit -m "Add avatar image"
 git push
