@@ -3,3 +3,8 @@ portfolio/
 ├── styles.css
 └── Assets/
     └── avatar.jpeg
+
+# tell git to include it (if needed)
+git add assets/avatar.jpg
+git commit -m "Add avatar image"
+git push
