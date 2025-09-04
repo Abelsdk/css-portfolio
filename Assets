@@ -2,7 +2,7 @@ portfolio/
 ├── index.html
 ├── styles.css
 └── Assets/
-    └── avatar.jpeg
+    └── avatar1.jpeg
 
 # tell git to include it (if needed)
 git add Assets/avatar.jpeg
