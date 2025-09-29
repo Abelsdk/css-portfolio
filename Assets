@@ -9,3 +9,8 @@ portfolio/
 git add Assets/avatar.jpeg
 git commit -m "Add avatar image"
 git push
+
+# tell git to include it (if needed)
+git add Assets/logo.png
+git commit -m "Add logo image"
+git push
