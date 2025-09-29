@@ -3,6 +3,7 @@ portfolio/
 ├── styles.css
 └── Assets/
     └── avatar.jpeg
+    └── logo.png
 
 # tell git to include it (if needed)
 git add Assets/avatar.jpeg
